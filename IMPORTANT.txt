@@ -1,0 +1,17 @@
+Add New patient : -
+Username:admin
+Password:admin
+
+Start Doctor's mode to view database of patients:-
+Username:kavita
+Password:kavita
+
+The pdf is created in :-
+C:\Windows\Temp\createpdf.pdf
+Note :- The location can be changed in Form4.cs line 97
+
+EXE file can be found in :-
+WindowsFormsApp3\bin\Debug as WindowsFormsApp3.exe
+
+To open/run the project in Visual Studio :-
+WindowsFormsApp3 as WindowsFormsApp3.csproj

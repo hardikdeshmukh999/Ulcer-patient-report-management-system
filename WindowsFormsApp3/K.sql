@@ -1,0 +1,1 @@
+﻿alter table wound drop column woundid;
