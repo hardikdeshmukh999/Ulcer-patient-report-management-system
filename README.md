@@ -1,6 +1,8 @@
 # -Ulcer-patient-s-report-management-system
 A DBMS project using T-SQL in C# made by Hardik Deshmukh
 
+Here I describe the concepts of dbms and offer sql query syntax.
+
 **1. Introduction**
 
   1. **Windows Application:-**
