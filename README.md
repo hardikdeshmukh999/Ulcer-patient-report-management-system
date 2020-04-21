@@ -176,7 +176,7 @@ Fig: Adding Wound details.
 Fig. Report generated.
 
 <p align="center">
-  <img  src="preview/report generated.png">
+  <img  src="preview/database view.png">
 </p>
 
 Fig: Doctor&#39;s End view of database.
